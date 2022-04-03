@@ -12,7 +12,7 @@
   <img align="center" alt="Deyvid-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Deyvid-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Deyvid2-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Deyvid2-pic" height="150" style="border-radius:50px;" src="https://instagram.ffor1-3.fna.fbcdn.net/v/t51.2885-19/s150x150/209762360_322853222643121_6460766133727632148_n.jpg?_nc_ht=instagram.ffor1-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CZ3QRtq9ijMAX-uQqW6&edm=ABfd0MgBAAAA&ccb=7-4&oh=6a2b86e026e971e02e49a5ec3e8549e7&oe=61ACF4F8&_nc_sid=7bff83">
+  <img align="right" alt="Deyvid2-pic" height="150" style="border-radius:50px;" src="https://instagram.ffor1-2.fna.fbcdn.net/v/t51.2885-19/209762360_322853222643121_6460766133727632148_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ffor1-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=_3YvOZ1wuYgAX9MXOLj&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-Xi0rmr1W1FDJQvoIpq2l1XyIJ304zzb3XnnkWVG3E7A&oe=6250C750&_nc_sid=7bff83">
 </div>
   
  ##
